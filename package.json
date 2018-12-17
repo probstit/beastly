@@ -1,0 +1,24 @@
+{
+  "name": "beastly",
+  "version": "1.0.0",
+  "description": "JavaScript Standard Library for code constructs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebestindragos/beastly.git"
+  },
+  "keywords": [
+    "beastly",
+    "js",
+    "ts"
+  ],
+  "author": "PRO BST IT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebestindragos/beastly/issues"
+  },
+  "homepage": "https://github.com/sebestindragos/beastly#readme"
+}
