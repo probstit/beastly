@@ -1,0 +1,12 @@
+[submodule "beastly-core"]
+	path = beastly-core
+	url = https://github.com/probstit/beastly-core.git
+[submodule "beastly-users"]
+	path = beastly-users
+	url = https://github.com/probstit/beastly-users.git
+[submodule "beastly-notifications"]
+	path = beastly-notifications
+	url = https://github.com/probstit/beastly-notifications.git
+[submodule "beastly-analytics"]
+	path = beastly-analytics
+	url = https://github.com/probstit/beastly-analytics.git
